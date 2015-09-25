@@ -17,7 +17,7 @@ $ iojs dns-discover.js tecob.com
 
 or
 
-$ nodejs dns-discover.js tecob.com
+$ node dns-discover.js tecob.com
 
 
 subdomains list is taken from dnsenum perl project, please, feel free to report any other subdomain that should be added to the checklist.
